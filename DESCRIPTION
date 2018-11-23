@@ -1,13 +1,11 @@
 Package: jerbs
-Title: What the Package Does (One Line, Title Case)
+Title: Data from the Australian Job Outlook Site.
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
-License: What license it uses
+Authors@R: c(
+  person(given = "Gabriela", family = "D'Souza", role = c("aut", "cre"), email = "dgab5@student.monash.edu"),
+  person("Mitchell", "O'Hara-Wild", role="aut", comment=c(ORCID = "0000-0001-6729-7695")))
+Description: Provides Australian job outlook data.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/gabyd/jerbs
