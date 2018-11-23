@@ -1,2 +1,4 @@
+^README\.Rmd$
+^data-raw$
 ^jerbs\.Rproj$
 ^\.Rproj\.user$
